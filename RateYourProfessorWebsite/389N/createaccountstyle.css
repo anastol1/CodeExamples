@@ -1,0 +1,20 @@
+body {
+  text-align: center;
+  background: url("college2.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  color: white;
+}
+
+
+
+
+
+.left {
+  padding-top: 27px;
+  background: rgba(255, 255, 255, 0.4);
+  width: 350px;
+  height: 450px;
+}

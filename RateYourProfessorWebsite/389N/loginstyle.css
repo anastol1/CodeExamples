@@ -1,0 +1,39 @@
+body {
+  text-align: center;
+  background: url("college9.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  color: white;
+}
+
+
+
+/* unvisited link */
+a:link {
+    color: rgb(0, 188, 212);
+}
+
+/* visited link */
+a:visited {
+    color: rgb(0, 188, 212);
+}
+
+/* mouse over link */
+a:hover {
+    color: rgb(155, 242, 255);
+}
+
+/* selected link */
+a:active {
+    color: rgb(155, 242, 255);
+}
+
+
+.left {
+  padding-top: 27px;
+  background: rgba(255, 255, 255, 0.4);
+  width: 350px;
+  height: 400px;
+}
